@@ -1,0 +1,171 @@
+#EXTM3U
+
+
+#EXTINF:-1 ,Canal Canela tv
+https://59d39900ebfb8.streamlock.net:443/canelatv/canelatv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,Teleamazonas Provi
+http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
+
+#EXTINF:-1 tvg-id="110" tvg-name="TV Puruwa" tvg-logo="https://www.m3u.cl/logo/110_TV_Puruwa.png", TV Puruwa | EC
+https://srv.panelcast.net/puruwalive/puruwalive/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="612" tvg-name="Extremadura" tvg-logo="https://www.m3u.cl/logo/612_Extremadura.png", Extremadura | ES
+https://cdnlive.shooowit.net/canalextremaduralive/channel1DVR.smil/chunklist_b1500000_DVR.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="613" tvg-name="La 1" tvg-logo="https://www.m3u.cl/logo/613_La_1.png", La 1 | ES
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0650_av-p.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="614" tvg-name="La 2" tvg-logo="https://www.m3u.cl/logo/614_La_2.png", La 2 | ES
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?sd=10&rebase=on&PlaylistM3UCL
+
+#EXTINF:-1, 0
+http://51.91.73.99:25461/spain/XDWu1KatRP/21517
+
+#EXTINF:-1,V
+http://51.91.73.99:25461/spain/XDWu1KatRP/21518
+
+#EXTINF:-1,7HD
+http://51.91.73.99:25461/spain/XDWu1KatRP/21526
+
+#EXTINF:-1,iptvtools_16
+http://51.91.73.99:25461/spain/XDWu1KatRP/21533
+
+#EXTINF:-1,Blaze
+http://51.91.73.99:25461/spain/XDWu1KatRP/21559
+
+#EXTINF:-1,24h
+http://51.91.73.99:25461/spain/XDWu1KatRP/21571
+
+#EXTINF:-1,Canal 33
+http://51.91.73.99:25461/spain/XDWu1KatRP/21574
+
+#EXTINF:-1,Cosmo
+http://51.91.73.99:25461/spain/XDWu1KatRP/21620
+
+#EXTINF:-1,DAZN 1
+http://51.91.73.99:25461/spain/XDWu1KatRP/21627
+
+#EXTINF:-1,De casa
+http://51.91.73.99:25461/spain/XDWu1KatRP/21636
+
+#EXTINF:-1,Diez ubeda
+http://51.91.73.99:25461/spain/XDWu1KatRP/21637
+
+#EXTINF:-1,Discovery
+http://51.91.73.99:25461/spain/XDWu1KatRP/21638
+
+#EXTINF:-1,Disney Junior
+http://51.91.73.99:25461/spain/XDWu1KatRP/21644
+
+#EXTINF:-1,Divinity
+http://51.91.73.99:25461/spain/XDWu1KatRP/21649
+
+#EXTINF:-1,Dmax
+http://51.91.73.99:25461/spain/XDWu1KatRP/21651
+
+#EXTINF:-1,ED
+http://51.91.73.99:25461/spain/XDWu1KatRP/21659
+
+#EXTINF:-1,1 HD
+http://51.91.73.99:25461/spain/XDWu1KatRP/21663
+
+#EXTINF:-1,TP VX
+http://51.91.73.99:25461/spain/XDWu1KatRP/21670
+
+#EXTINF:-1,iptvtools_144
+http://51.91.73.99:25461/spain/XDWu1KatRP/21679
+
+#EXTINF:-1,Fox life
+http://51.91.73.99:25461/spain/XDWu1KatRP/21685
+
+#EXTINF:-1,History
+http://51.91.73.99:25461/spain/XDWu1KatRP/21693
+
+#EXTINF:-1,Hollywood
+http://51.91.73.99:25461/spain/XDWu1KatRP/21697
+
+#EXTINF:-1, Canal 1
+http://51.91.73.99:25461/spain/XDWu1KatRP/21707
+
+#EXTINF:-1,Canal 2
+http://51.91.73.99:25461/spain/XDWu1KatRP/21709
+
+#EXTINF:-1,Levantate TV
+http://51.91.73.99:25461/spain/XDWu1KatRP/21715
+
+#EXTINF:-1,Movistar Accion
+http://51.91.73.99:25461/spain/XDWu1KatRP/21733
+
+#EXTINF:-1,iptvtools_198
+http://51.91.73.99:25461/spain/XDWu1KatRP/21736
+
+#EXTINF:-1,Movistar Comedia
+http://51.91.73.99:25461/spain/XDWu1KatRP/21741
+
+#EXTINF:-1,Disney Channel
+http://51.91.73.99:25461/spain/XDWu1KatRP/21749
+
+#EXTINF:-1,Movistar Drama
+http://51.91.73.99:25461/spain/XDWu1KatRP/21753
+
+#EXTINF:-1,Movistar Estrenos
+http://51.91.73.99:25461/spain/XDWu1KatRP/21755
+
+#EXTINF:-1,iptvtools_217
+http://51.91.73.99:25461/spain/XDWu1KatRP/21756
+
+#EXTINF:-1,Movistar
+http://51.91.73.99:25461/spain/XDWu1KatRP/21765
+
+#EXTINF:-1,Movistar Series
+http://51.91.73.99:25461/spain/XDWu1KatRP/21771
+
+#EXTINF:-1, Movistar series 2
+http://51.91.73.99:25461/spain/XDWu1KatRP/21772
+
+#EXTINF:-1,National Geographic Wild
+http://51.91.73.99:25461/spain/XDWu1KatRP/21792
+
+#EXTINF:-1,Nova
+http://51.91.73.99:25461/spain/XDWu1KatRP/21801
+
+#EXTINF:-1,Paramount network
+http://51.91.73.99:25461/spain/XDWu1KatRP/21809
+
+#EXTINF:-1,Madrid HD
+http://51.91.73.99:25461/spain/XDWu1KatRP/21815
+
+#EXTINF:-1,TDP directo
+http://51.91.73.99:25461/spain/XDWu1KatRP/21848
+
+#EXTINF:-1,iptvtools_309
+http://51.91.73.99:25461/spain/XDWu1KatRP/21855
+
+
+
+#EXTINF:-1 tvg-id="665" tvg-name="Canal Once Nacional" tvg-logo="https://www.m3u.cl/logo/665_Canal_Once_Nacional.png", Canal Once Nacional | MX
+http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 ,Japanet Channel DX 
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+
+
+#EXTINF:-1 tvg-id="488" tvg-name="Anime Zone TV" tvg-logo="https://www.m3u.cl/logo/488_Anime_Zone_TV.png", Anime Zone TV | AR
+http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="50" tvg-name="Locomotion" tvg-logo="https://www.m3u.cl/logo/50_Locomotion.png", Locomotion | AR
+http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,El Chavo
+https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
+
+#EXTINF:-1 ,Los Simpson
+https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
+
+
+
+#EXTINF:-1 ,WOW TV 
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
